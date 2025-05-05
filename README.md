@@ -5,7 +5,7 @@
 - Unityバージョン: 6 (6000.0.44f1)
 - プラットフォーム: macOS
 
-## 🧰 利用しているAsset
+## 🧰 利用したAsset
 ### [Modern Archviz: Leafless | Unity Asset Store](https://assetstore.unity.com/packages/3d/environments/modern-archviz-leafless-108308)
 Sceneを利用
 
@@ -27,10 +27,10 @@ ItemBoxに表示するアイテム画像を撮影するために使用した
 Image > Source Image にそのまま指定できるよう、以下のように設定（詳細はScreenshotCapture.csを参照）
 
 ```
-            textureImporter.textureType = TextureImporterType.Sprite;  // Spriteタイプに設定
-            textureImporter.spriteImportMode = SpriteImportMode.Single;  // SpriteモードをSingleに設定
-            textureImporter.isReadable = true;  // スプライトを読み取り可能にする
-            textureImporter.SaveAndReimport();  // 設定を保存してインポートを更新
+textureImporter.textureType = TextureImporterType.Sprite;  // Spriteタイプに設定
+textureImporter.spriteImportMode = SpriteImportMode.Single;  // SpriteモードをSingleに設定
+textureImporter.isReadable = true;  // スプライトを読み取り可能にする
+textureImporter.SaveAndReimport();  // 設定を保存してインポートを更新
 ```
 
 <img width="1440" alt="image" src="https://github.com/user-attachments/assets/3d08f1c8-fff9-47c6-9708-f697ab03babc"/>
