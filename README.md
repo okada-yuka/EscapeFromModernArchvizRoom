@@ -1,5 +1,5 @@
 ## 🎥 チュートリアル
-[【Unityゲーム制作】3D脱出ゲーム制作のやり方を入門者・初心者向けに解説！　Unityの基本操作とオブジェクト配置編 - YouTube](https://www.youtube.com/watch?v=5cowmeabYtI) を参考に進めた
+[【Unityゲーム制作】3D脱出ゲーム制作のやり方を入門者・初心者向けに解説！　Unityの基本操作とオブジェクト配置編 - YouTube](https://www.youtube.com/watch?v=5cowmeabYtI) ~
 
 ## 🛠️ 開発環境
 - Unityバージョン: 6 (6000.0.44f1)
